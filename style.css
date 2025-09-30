@@ -29,9 +29,8 @@ header {
 }
 
 .logo {
-  max-height: 70px;
-  width: auto;
-  padding: 5px 0;
+  height: 90px;
+  max-width: 100%;
 }
 
 nav ul {
